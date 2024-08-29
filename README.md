@@ -12,5 +12,5 @@ Install tmux-tpm using this command:
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-Open tmux and hit <Leader> + I ( capital I )<br>
-for this configuration, <Leader> is Ctrl + Space
+Open tmux and hit \<Leader\> + I ( capital I )<br>
+for this configuration, \<Leader\> is Ctrl + Space
